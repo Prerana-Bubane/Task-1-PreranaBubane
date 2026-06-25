@@ -1,4 +1,7 @@
-# User Registration & Login System
+# Project 1: Responsive Frontend Interface
+**DecodeLabs Industrial Training Kit — Batch 2026**
+
+---# User Registration & Login System
 
 A responsive User Registration and Login System built using HTML, CSS, and JavaScript. The project allows users to register, log in, view their profile information, and log out using browser Local Storage.
 
