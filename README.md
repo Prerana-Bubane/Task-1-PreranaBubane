@@ -21,7 +21,7 @@ A responsive User Registration and Login System built using HTML, CSS, and JavaS
 - Local Storage
 
 ## Project Structure
-
+```
 project/
 ├── register.html
 ├── login.html
@@ -32,6 +32,7 @@ project/
     ├── register.js
     ├── login.js
     └── dashboard.js
+```
 
 ## How to Run
 1. Download or clone the project.
